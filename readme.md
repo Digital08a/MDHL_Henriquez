@@ -1,38 +1,41 @@
-# TP 2
+# TP 3
 ## Pautas
 
-📌Formato de entrega en plataforma: 
 
-    -rar/zip nombrado como: NOMBRE_APELLIDO_T2_M1
-    -repositorio (mismo que la task1): MDHL_APELLIDO
-    -nueva branch: task2
+ 📌Formato de entrega en plataforma: 
+          
+rar/zip nombrado como: NOMBRE_APELLIDO_T3_M1
+repositorio MDHL_APELLIDO en una rama NUEVA task3
 
- 📌 Los materiales de la tarea estan en la plataforma, el el sector "ADD STYLE TO THE WEBSITE WITH CSS"
+ 📌 Antes de entregar utilicen el validador para chequear su tarea https://validator.w3.org/
 
- 📌 Deben tener un total de 3 html. Las paginas a realizar son:
---> home page
---> about MDHL
---> contact
+ 📌Debe tener favicon.ico
 
-📌 Crear 1 archivo css por diseño adjuntado en plataforma, es decir, si realizan los dos diseños deben crear 2 archivos css.
+📌 Los materiales de la tarea estan en la plataforma, el el sector 3 "PRESENT DATA IN LISTS AND TABLES".
 
-📌 Posicionamiento de contenido con lo aprendido en la clase del jueves y viernes.
+ 🎨 Diseño libre  colores, animaciones, maquetado de la pagina libre. Mientras que este toda la info pedida/entregada por el cliente, prohibido borrar imagenes!
 
-📌 Cuiden la indentacion de su codigo y semantica! Implementen las correciones dadas en la devolucion de tarea ( todavia corrigiendo )
+ 📌Deben tener un total de 5 html y 1 css.  Los nombres son:
+--> index.html
+--> contact.html
+--> about-MDHL.html
+--> game-info.html
+--> rules.html
 
-⚠️  En esta entrega el Favicon es OBLIGATORIO
+ ⚠️ Position ya no se usa. Todo lo que teniamos reemplacenlo por flexbox.
 
-🚨 Antes de entregar utilicen el validador para chequear su tarea https://validator.w3.org/
+ ⚠️ Prohibido eliminar imágenes o contenido que pidiese el cliente antes
 
-🚫 Prohibido eliminar imagenes entregadas por el cliente de la task anterior
-
-📚Entrega el jueves 07/08.
 
 # Update
 ## Se tomaron encuenta correciones anteriores:
-- ✅ se realizo correción del favicon 
-- ✅ se eliminaron divs de más
-- ✅ footer innecesario eliminado
-- ✅ se corrigio nombre del archivo rar
-- ✅ se aplico consejo de sintaxis para colocar el contacto
+- ✅ ya no se posicionan con porcentajes
 
+------
+# desarrollo
+Se realizo un diseño simple, sencillo y fiel a los colores del equipo
+
+El equipo oficial consta con los siguientes colores
+- Negro, oro metálico, naranja, plata
+
+Se aplicaron los colores del equipo oficial
