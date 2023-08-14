@@ -2,40 +2,38 @@
 ## Pautas
 
 
- 📌Formato de entrega en plataforma: 
-          
-rar/zip nombrado como: NOMBRE_APELLIDO_T3_M1
-repositorio MDHL_APELLIDO en una rama NUEVA task3
+📌 Entrega en plataforma:
+rar/zip con nombre: NOMBRE_APELLIDO_T4_M1
+link a repo en github con nombre: MDHL_APELLIDO en rama NUEVA task4
 
- 📌 Antes de entregar utilicen el validador para chequear su tarea https://validator.w3.org/
+📌 Consignas:
+Agregar sección "registro" con un formulario como el enviado por el cliente. Misma estructura general que el resto de las secciones, también agregar al menú
+El form debe llevar a un archivo con el contenido de "show_data.txt" para poder visualizar la info enviada
+Agregar mapas, uno por cada locación nombrada en la tabla, a la sección de "game information". Diseño libre
 
- 📌Debe tener favicon.ico
+📌 Recordatorios:
+utilizar el validador y corregir los errores y advertencias
+agregar favicon
+revisar rutas y estructura de carpetas
+utilizar flexbox para acomodar los elementos siempre que sea posible
 
-📌 Los materiales de la tarea estan en la plataforma, el el sector 3 "PRESENT DATA IN LISTS AND TABLES".
+📌 Los materiales de la tarea están en la plataforma, en la sección 4 "ADD FORMS AND MAPS"
 
- 🎨 Diseño libre  colores, animaciones, maquetado de la pagina libre. Mientras que este toda la info pedida/entregada por el cliente, prohibido borrar imagenes!
-
- 📌Deben tener un total de 5 html y 1 css.  Los nombres son:
---> index.html
---> contact.html
---> about-MDHL.html
---> game-info.html
---> rules.html
-
- ⚠️ Position ya no se usa. Todo lo que teniamos reemplacenlo por flexbox.
-
- ⚠️ Prohibido eliminar imágenes o contenido que pidiese el cliente antes
+📚 Entrega: Lunes 14/8 10hs
 
 
 # Update
 ## Se tomaron encuenta correciones anteriores:
-- ✅ ya no se posicionan con porcentajes
+- ❌No se realizo devolución de task4 por lo que no hubieron módificaciones
 
 ------
 # desarrollo
-Se realizo un diseño simple, sencillo y fiel a los colores del equipo
+Por falta de devolución, se mantuvo el diseño anterior
+Se modifico el archivo show_data.txt a html como se vio en clases.
 
-El equipo oficial consta con los siguientes colores
-- Negro, oro metálico, naranja, plata
-
-Se aplicaron los colores del equipo oficial
+- Se agregaron mapas
+- Se agrego Hover
+- Se agrego sección registration-Form
+- Se detectaron errores o mejoras en el show_data en lugar de usar document.writeln(), que puede afectar negativamente el rendimiento y la estructura del DOM, utiliza métodos de manipulación del DOM como createElement(), appendChild(), etc.
+- Uso de funciones obsoletas, entre otras.
+- Se podrían transladar los diseños, estilos al showdata
